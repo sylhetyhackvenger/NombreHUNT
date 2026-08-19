@@ -222,9 +222,9 @@ Extracted Metadata Per Platform:
 
 ---
 
-🏗️ ARCHITECTURAL DIGITAL SIMULATORS
+🏗️ ARCHITECTURE
 
-Simulator 1: Complete OSINT Data Flow Pipeline
+1: Complete OSINT Data Flow Pipeline
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────────┐
@@ -310,7 +310,7 @@ Simulator 1: Complete OSINT Data Flow Pipeline
 
 ---
 
-Simulator 2: Threat Intelligence & Risk Modeling Engine
+2: Threat Intelligence & Risk Modeling Engine
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────────┐
