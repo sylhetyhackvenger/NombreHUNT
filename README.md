@@ -237,7 +237,7 @@ Extracted Metadata Per Platform:
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────────┐
-│                         NOMBREHUNT DATA PIPELINE SIMULATOR                          │
+│                         NOMBREHUNT DATA PIPELINE                           │
 │                          Complete OSINT Processing Architecture                      │
 ├─────────────────────────────────────────────────────────────────────────────────────┤
 │                                                                                     │
@@ -324,7 +324,7 @@ Extracted Metadata Per Platform:
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────────┐
 │                   THREAT INTELLIGENCE & RISK MODELING ENGINE                        │
-│                  Advanced Predictive Risk Assessment Simulator                      │
+│                  Advanced Predictive Risk Assessment                      │
 ├─────────────────────────────────────────────────────────────────────────────────────┤
 │                                                                                     │
 │  ┌─────────────────────────────────────────────────────────────────────────────────┐│
