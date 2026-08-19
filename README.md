@@ -550,7 +550,7 @@ cd NombreHUNT
 pip install -r requirements.txt
 
 # Run the tool
-python nombrehunt.py
+python main.py
 
 # Enter phone number when prompted
 # Example: +1-555-123-4567 or +8801712345678
