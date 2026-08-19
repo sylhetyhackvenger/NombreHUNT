@@ -545,8 +545,8 @@ instagram-private-api>=1.6.0  # Instagram API integration
 
 ```bash
 # Clone and install dependencies
-git clone https://github.com/sylhetyhackvenger/nombrehunt.git
-cd nombrehunt
+git clone https://github.com/sylhetyhackvenger/NombreHUNT
+cd NombreHUNT 
 pip install -r requirements.txt
 
 # Run the tool
@@ -556,45 +556,6 @@ python nombrehunt.py
 # Example: +1-555-123-4567 or +8801712345678
 ```
 
----
-
-📊 SAMPLE OUTPUT
-
-```
-🚀 COMPLETE PHONE OSINT INVESTIGATION
-  Target: +1-555-123-4567
-  Time: 2026-08-19 14:30:25
-  Modules: 35+ OSINT Modules | 250+ Platforms | Full Verbose
-
-📱 1. PHONE NUMBER ANALYSIS
-  ✅ Country: United States | Carrier: AT&T | Type: Mobile
-  ✅ Valid: Yes | E164: +15551234567
-
-🌐 2. SOCIAL MEDIA (250+ Platforms)
-  Scanning 250 platforms...
-  ✅ Found: 12/250 platforms
-  🎯 FOUND: WhatsApp - +15551234567
-     URL: https://wa.me/15551234567
-  🎯 FOUND: Facebook - johndoe
-     URL: https://facebook.com/johndoe
-     Followers: 500
-
-[Continues...]
-
-📊 COMPLETE INTELLIGENCE SUMMARY
-┌─────────────────────┬─────────────────────────────┐
-│ Category            │ Value                       │
-├─────────────────────┼─────────────────────────────┤
-│ Phone               │ +15551234567                │
-│ Country             │ United States               │
-│ Carrier             │ AT&T                        │
-│ Social Platforms    │ 12/250                      │
-│ Breaches            │ 3                           │
-│ Risk Score          │ 65/100                      │
-│ Risk Level          │ HIGH                        │
-│ Confidence          │ 75.8%                       │
-└─────────────────────┴─────────────────────────────┘
-```
 
 ---
 
