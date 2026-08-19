@@ -220,6 +220,13 @@ Extracted Metadata Per Platform:
 · Error Handling - Graceful failure handling with retry logic
 · Progress Tracking - Real-time progress bars and indicators
 
+<div align="center">
+
+<img src="https://media.giphy.com/media/3oKIPic3FZRFu0gedy/giphy.gif"
+     width="100%"
+     alt="My Hero Academia animation">
+
+</div>
 ---
 
 🏗️ ARCHITECTURE
