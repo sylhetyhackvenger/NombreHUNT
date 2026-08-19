@@ -1,6 +1,8 @@
 # NombreHUNT - under construction 
 🔥 NombreHUNT - Phone Number OSINT Framework
-
+<div align="center">
+  <img src="assets/nombrehunt.png" alt="NombreHUNT Logo" width="100%">
+</div>
 A comprehensive, all-in-one phone number intelligence gathering platform with 35+ specialized OSINT modules, 250+ social platforms, dark web monitoring, breach intelligence, real-time risk assessment, and advanced digital footprint analysis for complete cybersecurity investigations.
 
 ---
