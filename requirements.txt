@@ -1,0 +1,16 @@
+aiohttp
+aiofiles
+aiohttp-socks
+beautifulsoup4
+dnspython
+fake-useragent
+geoip2
+phonenumbers
+praw
+pyOpenSSL
+python-whois
+requests
+shodan
+tweepy
+censys
+instagram-private-api
